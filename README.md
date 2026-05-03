@@ -6,6 +6,10 @@ Bu proje, Discord sunucunuzda DM gönderme işlemlerini kolayca yönetmek için 
 
 NosCode YouTube Abone Olmayı Unutmayın!
 
+**Botu Çalıştırmak için ilk *npm i***
+
+**Ardından *npm start***
+
 ## İletişim
 
 - NosCode Discord: https://discord.gg/egVBfCgpfp
