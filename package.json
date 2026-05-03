@@ -1,0 +1,17 @@
+{
+  "name": "nos-dmsendbot",
+  "version": "1.0.0",
+  "description": "NosCode DMSender Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@discordjs/voice": "^0.16.1",
+    "axios": "^1.6.2"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
